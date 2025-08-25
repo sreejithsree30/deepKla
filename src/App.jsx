@@ -22,7 +22,7 @@ import {
   Loader
 } from 'lucide-react';
 
-const GEMINI_API_KEY = "AIzaSyD3UvUSdQ_C2Kn17neV4J9XPxJH3Kw_tQs";
+const GEMINI_API_KEY = "your key";
 
 const App = () => {
   const [activeTab, setActiveTab] = useState('analyze');
